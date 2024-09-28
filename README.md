@@ -14,5 +14,5 @@ O foco deste projeto foi a análise do dataset disponível no Kaggle, onde foram
 
 ## Contato 📫
 
-Para mais informações ou sugestões, sinta-se à vontade para entrar em contato comigo através do meu perfil no GitHub: [Rafasansouza](https://github.com/Rafasansouza).
+Para mais informações ou sugestões, sinta-se à vontade para entrar em contato comigo através do meu perfil no [GitHub](https://github.com/Rafasansouza). 🖤
 
